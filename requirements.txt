@@ -2,7 +2,7 @@ asgiref==3.2.7
 Django==3.2.25
 django-taggit==1.2.0
 Markdown==3.2.1
-pip==21.1
+pip==23.3
 psycopg2-binary==2.8.4
 pytz==2020.1
 setuptools==65.5.1
